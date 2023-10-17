@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+tensorflow-addons
+plotly
+pot
+networkx
+gudhi!=3.7.0 # cf. https://github.com/GUDHI/TDA-tutorial/issues/65
+torch
+tqdm
+eagerpy
